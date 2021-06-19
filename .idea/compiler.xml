@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Indexer-Spring" />
+        <module name="Indexer-Spring-Git" />
       </profile>
     </annotationProcessing>
   </component>
