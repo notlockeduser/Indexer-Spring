@@ -1,5 +1,12 @@
 <html>
+<head>
+    <title>Index</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+<main>
+    <br/>
+    <a href="/search">search</a>
+    <br/>
+</main>
 </body>
 </html>
